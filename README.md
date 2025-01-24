@@ -26,7 +26,7 @@ The **Beach Cleanup Game** is an interactive web-based game where players race a
 - **Mouse**: Click on trash, power-ups, and penalties during the game.
 - **Pause Button**: Pause or resume the game.
 
-## Files
+## Technologies Used
 - **HTML**: Provides the game structure and layout.
 - **CSS**: Styles the game, making it visually appealing and responsive.
 - **JavaScript**: Implements all game mechanics, including timers, spawning logic, and event handling.
